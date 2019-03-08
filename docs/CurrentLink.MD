@@ -1,2 +1,2 @@
 ## Current link for website 
-* file:///Users/jennycampbell/Desktop/website%20CDM/adventures.html
+* file:///Users/jennycampbell/Desktop/website--jennyaimei120/docs/landing.html
